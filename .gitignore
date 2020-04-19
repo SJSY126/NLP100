@@ -4,4 +4,8 @@
 *.mecab*
 *.cabocha*
 *.png
+*.jpg
 NewsAggregatorDataset
+wordsim353
+openml
+GoogleNews*
