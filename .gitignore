@@ -9,3 +9,4 @@ NewsAggregatorDataset
 wordsim353
 openml
 GoogleNews*
+*.pickle
