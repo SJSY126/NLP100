@@ -11,3 +11,4 @@ openml
 GoogleNews*
 *.pickle
 log
+model
