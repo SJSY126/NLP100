@@ -5,6 +5,7 @@
 *.cabocha*
 *.png
 *.jpg
+*.log
 NewsAggregatorDataset
 wordsim353
 openml
@@ -12,4 +13,5 @@ GoogleNews*
 *.pickle
 log
 model
-data
+data*
+save
